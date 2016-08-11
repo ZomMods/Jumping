@@ -14,6 +14,7 @@ public class MenuFrame extends JFrame {
         this.setSize(400,600);
         this.setResizable(false);
         this.setContentPane(new MenuPanel());
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setVisible(true);
     }
 }
