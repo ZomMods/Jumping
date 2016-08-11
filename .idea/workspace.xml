@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948a7616-7870-433b-94f2-01d79770f6b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fr/zomdev/jumping/frames/panels/favicon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/fr/zomdev/jumping/frames/panels/MenuPanel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/zomdev/jumping/frames/MenuFrame.java" afterPath="$PROJECT_DIR$/src/fr/zomdev/jumping/frames/MenuFrame.java" />
     </list>
     <ignored path="Jumping.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -546,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1470927287300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Images and writing the code to make the image appear">
+      <created>1470928631176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1470928631176</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -610,7 +614,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Test" />
+    <MESSAGE value="Add Images and writing the code to make the image appear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Images and writing the code to make the image appear" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
